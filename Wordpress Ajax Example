@@ -55,6 +55,6 @@ function user_vote() {
 }
 
 function my_must_login() {
-	echo "You must log in to vote";
+	echo "You must log in to Vote";
 	die();
 }
